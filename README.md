@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/vectorvinnie/Tooth-releases/releases/latest"><img src="media/download.webp" width="380" alt="Download Tooth for Windows"></a></p>
 
-<p align="center">64-bit Windows 10 or 11 · installs without an admin password · install notes at the end of this page</p>
+<p align="center">Digitally signed · 64-bit Windows 10 or 11 · installs without an admin password · install notes at the end of this page</p>
 
 <p align="center"><img src="media/pencil.webp" width="900" alt="Paper has a surface. A light touch catches only the tops of the grain. Press harder and graphite reaches into the pits. Tilt the pen and you shade with the side of the lead. Animated: pencil lines and shading being drawn on textured paper."></p>
 
@@ -25,7 +25,7 @@
 ## Installing
 
 1. Get the installer (`Tooth_..._x64-setup.exe`) from the [latest release](https://github.com/vectorvinnie/Tooth-releases/releases/latest), and open it.
-2. Windows may say "Windows protected your PC", because the app isn't from a big publisher. Click **More info**, then **Run anyway**.
+2. Tooth is digitally signed, so Windows can check who made it and that it hasn't been changed. Because it's still new, Windows may still say "Windows protected your PC". If it does, click **More info**, then **Run anyway**.
 3. It installs just for you and puts Tooth on the Start menu and the desktop.
 
 **Drawing tablet:** pressure and tilt come through Windows Ink, so turn that on in your tablet's driver settings. The status bar at the bottom of Tooth shows live pressure and tilt while the pen hovers, so you can check it works.
